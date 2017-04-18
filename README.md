@@ -1,0 +1,2 @@
+# bitsofcoins
+A bitcoin implementation
